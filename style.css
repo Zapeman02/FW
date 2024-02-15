@@ -3,7 +3,9 @@ text-align: center;
   border-radius: 10rem;
   height: 10rem;
   width: 10rem;
-  border: solid pink 0.3rem;}
+  border: solid pink 0.3rem;
+margin: 5rem 0 0 0;
+}
 html {
   height: 100%;
 }
